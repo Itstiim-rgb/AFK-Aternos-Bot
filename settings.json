@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Astraticas.aternos.me",
+    "ip": "shiner.aternos.host:55249",
     "port": 55249,
     "version": "",
     "try-creative": false
