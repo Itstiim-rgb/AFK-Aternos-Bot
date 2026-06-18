@@ -6,21 +6,21 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shiner.aternos.host",
+    "ip": "Astraticas.aternos.me",
     "port": 55249,
-    "version": "",
+    "version":"26.1.2"
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 10,
+    "x": 0,
     "y": 100,
-    "z": 10
+    "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Bot"
     },
     "anti-afk": {
       "enabled": true,
